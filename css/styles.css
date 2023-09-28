@@ -33,6 +33,7 @@ h2 {
 #bio-image {
     width: 200px;
     margin: 10px;
+    border-radius: 20px;
 }
 
 #main-bio {
